@@ -1,4 +1,4 @@
-Go implementation for converting several China obfuscated GPS coordinate schemas back into the regular form (and vice versa).
+ Go implementation for converting several China obfuscated GPS coordinate schemas back into the regular form (and vice versa).
 
 Currently supported:
 |*| WGS84 <-> GCJ02
